@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TW2BOT.Forms", "TW2BOT.Form
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TW2BOT.Library", "TW2BOT.Library\TW2BOT.Library.csproj", "{12BD410C-DCFC-4CD4-9C12-B2E109AA4E86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TW2BOT.Console", "TW2BOT.Console\TW2BOT.Console.csproj", "{B30F28CB-4426-49DD-B89F-5BA4E5CA726F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{12BD410C-DCFC-4CD4-9C12-B2E109AA4E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12BD410C-DCFC-4CD4-9C12-B2E109AA4E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12BD410C-DCFC-4CD4-9C12-B2E109AA4E86}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B30F28CB-4426-49DD-B89F-5BA4E5CA726F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B30F28CB-4426-49DD-B89F-5BA4E5CA726F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B30F28CB-4426-49DD-B89F-5BA4E5CA726F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B30F28CB-4426-49DD-B89F-5BA4E5CA726F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
